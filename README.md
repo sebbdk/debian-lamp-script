@@ -7,7 +7,7 @@ Install and configure Apache, MySQL, PHP, Zend OpCode Cache and APCu in less tha
 Run this as root:
 
 ```bash
-curl -s https://raw2.github.com/sebbdk/debian-lamp-script/master/debian-lamp.sh | bash
+curl -s https://raw.githubusercontent.com/sebbdk/debian-lamp-script/master/debian-lamp.sh | bash
 ```
 
 You are encouraged to read the source code before you run it. You can find the source code [here](https://github.com/sebbdk/debian-lamp-script/blob/master/debian-lamp.sh).
